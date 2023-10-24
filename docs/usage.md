@@ -13,6 +13,7 @@ Use the `search-messages` command to search for messages sent from a specified c
 
 ```shell
 ts-node search.ts -l '[{"senderAddress":"0xCC737a94FecaeC165AbCf12dED095BB13F037685","destinationDomain":["80001"],"recipientAddress":"*"}]' search-messages
+```
 
 ### dispatch-messages
 Use the `dispatch` command to send a message via Hyperlane Messaging API. Example:
