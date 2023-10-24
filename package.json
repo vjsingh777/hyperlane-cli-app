@@ -1,0 +1,32 @@
+{
+  "name": "hyperlane-cli-app",
+  "version": "1.0.0",
+  "description": "Hyperlane CLI Application",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ethersproject/abstract-provider": "^5.7.0",
+    "axios": "^1.5.1",
+    "commander": "^11.1.0",
+    "ethers": "^6.8.0"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.3.9",
+    "@types/mocha": "^10.0.3",
+    "@types/node": "^20.8.7",
+    "@types/sinon": "^10.0.20",
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0",
+    "sinon": "^17.0.0",
+    "typescript": "^5.2.2"
+  }
+}
