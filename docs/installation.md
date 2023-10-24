@@ -1,7 +1,7 @@
 ```markdown
 # Installation
 
-To use My CLI Application, you need to install it and set up the required dependencies.
+To use Hyperlane CLI Application, you need to install it and set up the required dependencies.
 
 ## Prerequisites
 
@@ -12,8 +12,8 @@ To use My CLI Application, you need to install it and set up the required depend
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/yourusername/my-cli-app.git
-cd my-cli-app
+git clone https://github.com/vjsingh777/hyperlane-cli-app.git
+cd hyperlane-cli-app
 
 2. Install project dependencies:
 
